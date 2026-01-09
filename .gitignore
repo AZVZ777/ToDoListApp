@@ -1,0 +1,30 @@
+# IntelliJ IDEA / WebStorm
+.idea/
+*.iml
+*.iws
+out/
+
+# Compiled class files
+*.class
+*.jar
+
+# Build outputs
+target/
+build/
+bin/
+
+# Database (we'll regenerate it)
+*.db
+tasks.db
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Maven / Gradle
+target/
+build/
